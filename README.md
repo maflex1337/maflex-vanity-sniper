@@ -6,3 +6,8 @@ Discord API Ratelimit üst sınırı saniyede 50 istek ile limitlendirilmiştir.
 
 ## Daha İyi Kullanım İçin?
 Bilgisayarınız ve internetiniz her ne kadar iyi olursa olsun network pinginiz Türkiye standartlarında olduğunuz için minimum 3 olacaktır. Bu ise botun yavaş çalışmasına sebep olacaktır bunun yerine yurt dışı lokasyon ve 1ms bir VDS üzerinde botu çalıştırırsanız çok daha hızlı sonuç alacaksınız.
+
+## Socials
+@instagram > maflexcan
+@discord > cpbase
+@dcserver > https://discord.gg/nefret
